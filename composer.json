@@ -1,0 +1,12 @@
+{
+    "name": "nana_asiamah/kafka-queue",
+    "require": {
+        "laravel/framework": "^8.81"
+    },
+    "authors": [
+        {
+            "name": "Nana Asiamah",
+            "email": "judeasiamah@gmail.com"
+        }
+    ]
+}
